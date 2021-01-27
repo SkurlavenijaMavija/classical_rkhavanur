@@ -1,0 +1,1317 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "ʊmo̞="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "umo=", "3.m2.=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "pæ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "lo̞=mɑd"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Lo=mQd", "L2.=m1.2" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "bæ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bæ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "ro̞="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "ro=", "r2.=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "ɸæ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸæ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "ɟl="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "JL=", "4L=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "βæ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βæ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "ro̞=mʊːb"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "ro=mu:b", "r2.=m3:1" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "p͡ɸæ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸæ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "ɡɑr="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "gQr=", "51.r=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "pæ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "ʔʊ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "qu=", "q3.=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "bæ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bæ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "ɦɑ=rʊːɟ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "HQ=ru:J", "H1.=r3:4" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "ɸæ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸæ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "ʔʊɢ=ɟo̞ːŋɡ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "quG=Jo:Ng", "q3.6=42:N5" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "βæ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βæ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "bl="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "bL=", "1L=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "p͡ɸæ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸæ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "nʊl="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "nuL=", "n3.L=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "b͡βæ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βæ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "=ŋʊːd"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=Nu:d", "=N3:2" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "pɑ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pɑ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "ŋo̞ː=ɟ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "No:=J", "N2:=4" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "bɑ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bɑ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "mɑː=ʊʔ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "mQ:=uq", "m1:=3.q" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "ɸɑ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸɑ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "ɑlʊːdr="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "QLu:dr=", "1.L3:2r=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "βɑ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βɑ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "ŋo̞lɡ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "NoLg=", "N2.L5=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "p͡ɸɑ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸɑ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "=bo̞mɦʊːɖ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=bomHu:D", "=12.mH3:3" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "b͡βɑ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βɑ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "ɦʊːɢ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Hu:G=", "H3:6=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "pɑ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pɑ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "=o̞n"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=on", "=2.n" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "bɑ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bɑ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "ʊːʔɟ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "u:qJ=", "3:q4=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "ɸɑ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸɑ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "ŋo̞ːʔ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "No:q=", "N2:q=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "βɑ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βɑ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "mʊː="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "mu:=", "m3:=" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "p͡ɸɑ階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸɑ階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "rʊ=ɡɑːɦ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "ru=gQ:H", "r3.=51:H" ]
+    }, {
+      "title" : "階梯変更接辞",
+      "forms" : [ "b͡βɑ̃階梯の階梯変更接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "階梯変更接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βɑ̃階梯で用いられるはずの内容語の階梯を変更するための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "=ẽ̞ɦɸẽ̞"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=e~Hfe~", "=2.H12." ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "pæ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "læ̃ʂ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "La~S=", "L1.3=" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "bæ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bæ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "χẽ̞ː=æ̃r"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Xe^=a~r", "62:=1.r" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "ɸæ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸæ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "=mɪ̃ːʂ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=mi^S", "=m3:3" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "βæ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βæ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "lỹː=χæ̃"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Ly^=Xa~", "L4:=61." ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "p͡ɸæ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸæ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "ɸỹː=ɦ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "14:=H", "fy^=H" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "pæ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "sæ̃=mẽ̞"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "sa~=me~", "21.=m2." ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "bæ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "læ̃ː=xẽ̞"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "La^=xe~", "L1:=52." ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "βæ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βæ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "ɪ̃ɸ=hẽ̞"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "i~f=he~", "3.1=h2." ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "p͡ɸæ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸæ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "χɪ̃ŋ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Xi~N=", "63.N=" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "b͡βæ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βæ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "=næ̃ʂ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=na~S", "=n1.3" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "pɑ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pɑ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "çɪ̃ːm="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Ci^m=", "43:m=" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "bɑ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bɑ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "mæ̃=χẽ̞ːn"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "ma~=Xe^n", "m1.=62:n" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "ɸɑ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸɑ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 37,
+      "form" : "ỹːr=ʂ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "y^r=S", "4:r=3" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "βɑ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βɑ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 38,
+      "form" : "æ̃ːç=ɦỹx"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "a^C=Hy~x", "1:4=H4.5" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "p͡ɸɑ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸɑ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39,
+      "form" : "ʔɪ̃ː=ɸẽ̞s"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "qi^=fe~s", "q3:=12.2" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "b͡βɑ階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βɑ階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 40,
+      "form" : "ɦỹːɸ=ɪ̃ʂ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Hy^f=i~S", "H4:1=3.S" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "pɑ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pɑ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 41,
+      "form" : "mẽ̞s="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "me~s=", "m2.s=" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "bɑ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bɑ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 42,
+      "form" : "æ̃ɦx="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "a~Hx=", "1.H5=" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "ɸɑ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸɑ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 43,
+      "form" : "ẽ̞ːr=xɪ̃"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "e^r=xi~", "2:r=53." ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "βɑ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βɑ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "ɪ̃ː=ʂẽ̞m"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "i^=Se~m", "3:=32.m" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "p͡ɸɑ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸɑ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "χæ̃=ɦẽ̞ː"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Xa~=He^", "61.=H2:" ]
+    }, {
+      "title" : "ɸæ̃-接辞",
+      "forms" : [ "b͡βɑ̃階梯のɸæ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "ɸæ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βɑ̃階梯で用いられるはずの内容語の階梯をɸæ̃にし引用文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "mõ̞=ʈ͡ʂ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "mo~=T^", "=2.H12." ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "pæ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "ʊ̃ː=ŋõ̞c͡ç"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "u^=No~c^", "3:=N2.4" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "bæ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bæ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "n=ɑ̃"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "n=Q~", "n=1." ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "ɸæ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸæ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "lʊ̃ː=q͡χ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Lu^=K^", "L3:=6" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "βæ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βæ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "p͡ɸ=ɑ̃ʔ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "p^=Q~q", "1=1.q" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "p͡ɸæ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸæ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "rʊ̃=l"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "ru~=L", "r3.=L" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "pæ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pæ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "ŋõ̞ː="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "No^=", "N2:=" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "bæ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bæ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "hõ̞ː=l"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "ho^=L", "h2:=L" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "ɸæ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸæ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "=lɑ̃"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=LQ~", "=L1." ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "βæ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βæ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "ʈ͡ʂõ̞ː=ʔ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "T^o^=q", "32:=q" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "p͡ɸæ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸæ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "mɑ̃=nõ̞"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "mQ~=no~", "m1.=n2." ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "b͡βæ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βæ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "=ɑ̃ŋ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=Q~N", "=1.N" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "pɑ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pɑ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "k͡x=m"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "k^=m", "5=m" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "bɑ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bɑ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "mɑ̃=p͡ɸ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "mQ~=p^", "m1.=1" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "ɸɑ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸɑ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "t͡sõ̞=ŋ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "t^o~=N", "22.=N" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "βɑ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βɑ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "ɑ̃=m"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Q~=m", "1.=m" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "p͡ɸɑ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸɑ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "ʔʊ̃ː=ŋɑ̃"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "qu^=NQ~", "q3:=N1." ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "b͡βɑ階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βɑ階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "ɦõ̞="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Ho~=", "H2.=" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "pɑ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "pɑ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "=ɑ̃ːn"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "=Q^n", "=1:n" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "bɑ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "bɑ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "q͡χ=ɦ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "K^=H", "6=H" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "ɸɑ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "ɸɑ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "ʔ=ɯ̃"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "q=W~", "q=4." ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "βɑ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "βɑ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "ŋʊ̃ːq͡χ="
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Nu^K^=", "N3:6=" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "p͡ɸɑ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "p͡ɸɑ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "ɑ̃=m"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Q~=m", "1.=m" ]
+    }, {
+      "title" : "p͡ɸɑ̃-接辞",
+      "forms" : [ "b͡βɑ̃階梯のp͡ɸɑ̃-接辞" ]
+    } ],
+    "tags" : [ "自由階梯語彙", "接辞", "弱連結接辞", "p͡ɸɑ̃-接辞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "b͡βɑ̃階梯で用いられるはずの内容語の階梯をp͡ɸɑ̃にし関係文の成分として扱うための弱連結接辞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
