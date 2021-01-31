@@ -3608,6 +3608,158 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 148,
+      "form" : "ɖɪʋəɦæŋ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "DiwEHaN", "33.wEH1.N" ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "さて", "では", "ところで" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "接続詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文頭に置かれて話題の変化を明示する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 149,
+      "form" : "ɖyːɡæŋɪl"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Dy:gaNiL", "34:51.N3.L" ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "しかし", "しかしながら" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "接続詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "後ろに今までの文脈と大きくかけ離れた語が来ることを強調する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 150,
+      "form" : "ɢɑː"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "GQ:", "61:" ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "だ", "である" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "接続詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文末を表示する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 151,
+      "form" : "ʈæ̃ːpẽ̞"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "Ta^pe~", "31:12." ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "～か", "～のか", "～なのか", "～なのだろうか" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "接続詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文頭に置かれる疑問文マーカー"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 152,
+      "form" : "b͡βo̞ːɦən"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "b^o:HEn", "12:HEn" ]
+    }, {
+      "title" : "接続詞",
+      "forms" : [ "～か", "～のか", "～なのか", "～なのだろうか" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "接続詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "文頭に置かれる疑問文マーカー"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 153,
+      "form" : "bɪ̃ɟæ̃ːɖỹ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "bi~Ja^Dy~", "13.41:34." ]
+    }, {
+      "title" : "感嘆詞",
+      "forms" : [ "また話したい", "話を続けたい", "さっきの続きなのだが" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "感嘆詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "「会話を妨害する要因が消えたので会話を再開したい」という意図を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 154,
+      "form" : "dæ̃ləhẽ̞ːŋ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "da~LEhe^N", "21.LEh2:N" ]
+    }, {
+      "title" : "感嘆詞",
+      "forms" : [ "ようこそ", "歓迎しよう" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "感嘆詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "見慣れない人間に対し、当該の人物が話し手に関わることを快く感じているだろうと表明する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 155,
+      "form" : "o̞ːχ"
+    },
+    "translations" : [ {
+      "title" : "ASCII転写",
+      "forms" : [ "o:X", "2:6" ]
+    }, {
+      "title" : "感嘆詞",
+      "forms" : [ "ああ", "あゝ", "嗚呼" ]
+    } ],
+    "tags" : [ "固定階梯語彙", "感嘆詞" ],
+    "contents" : [ {
+      "title" : "基本義",
+      "text" : "強い感情の揺れを表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
