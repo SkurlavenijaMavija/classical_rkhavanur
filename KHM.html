@@ -33,7 +33,9 @@ i.bhateme {
 <p>以下の略語を用いる：</p>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 <tr><td>略</td><td>語</td><td>意味</td></tr>
+<tr><td>ADJ</td><td>adjective</td><td>形容詞的内容語</td></tr>
 <tr><td>ADV</td><td>adverb</td><td>副詞的内容語</td></tr>
+<tr><td>GRA</td><td>gradation</td><td>階梯変更接辞による階梯の変化</td></tr>
 <tr><td>IND</td><td>indicative</td><td>βæ-階梯の内容語</td></tr>
 <tr><td>INDE</td><td>indefinite article</td><td>不定冠詞</td></tr>
 <tr><td>INF</td><td>infinitive</td><td>不定詞的内容語</td></tr>
@@ -49,6 +51,15 @@ i.bhateme {
 </ul>
 
 <h2>KHM001: „Der Froschkönig oder der eiserne Heinrich“ (かえるの王さま、あるいは鉄のハインリヒ)</h2>
+
+<p>タイトル：</p>
+<div class="box" style="width: 700px;">
+    <div data-gloss>
+        <p>ɑbo̞ːɟʊd-ɑːɖdʊdɑːɖ ɸe̞ːn ŋe̞ː=hæɪnrɪç=ç p͡ɸõ̞ːʈ͡ʂõ̞t͡sq͡χõ̞ːt͡sʊ̃p͡ɸp͡ɸõ̞</p>
+        <p>水辺の獣-王 もしくは bɑ.GRA=ハインリッヒ=*bɑ.GRA, ADJ\鉄的な</p>
+        <p>水辺の獣たる王、もしくは鉄的なハインリッヒ</p>
+    </div>
+</div>
 
 <p>第一段落：</p>
 <div class="box" style="width: 700px;">
@@ -67,6 +78,8 @@ i.bhateme {
 
 <p>単純テキスト：</p>
 <textarea readonly cols="100" rows="20" spellcheck="false" style="font-family: Arial, Helvetica, sans-serif;">
+ɑbo̞ːɟʊdɑːɖdʊdɑːɖ ɸe̞ːn ŋe̞ː=hæɪnrɪç=ç p͡ɸõ̞ːʈ͡ʂõ̞t͡sq͡χõ̞ːt͡sʊ̃p͡ɸp͡ɸõ̞
+
 o̞rχ=o̞ʂxɑːço̞ʂ=çɑ ʊ̃ː=p͡ɸ=c͡çõ̞ːp͡ɸʈ͡ʂõ̞=lõ̞=ŋõ̞c͡ç ŋʊ̃ːq͡χ=ɯ̃p͡ɸ=õ̞k͡xp͡ɸʊ̃ːc͡ç=lõ̞ e̞ːs ʔæ̃=æ̃ːɖdɪ̃dæ̃ːɖ=ɢ βɑ̃ʁɯ̃ː ɢɑː
 </textarea>
 
@@ -77,7 +90,7 @@ o̞rχ=o̞ʂxɑːço̞ʂ=çɑ ʊ̃ː=p͡ɸ=c͡çõ̞ːp͡ɸʈ͡ʂõ̞=lõ̞=�
 <script>
  document.addEventListener('DOMContentLoaded', function() {
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({ADV:"adverb",INDE:"indefinite article"});
+    leipzig.addAbbreviations({ADV:"adverb",GRA:"gradation",INDE:"indefinite article"});
     leipzig.gloss()
   });
 </script>
