@@ -33,14 +33,18 @@ i.bhateme {
 <p>以下の略語を用いる：</p>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 <tr><td>略</td><td>語</td><td>意味</td></tr>
+<tr><td>3SG</td><td>third person, singular</td><td>三人称単数</td></tr>
 <tr><td>ADJ</td><td>adjective</td><td>形容詞的内容語</td></tr>
 <tr><td>ADV</td><td>adverb</td><td>副詞的内容語</td></tr>
+<tr><td>COMM</td><td>comment</td><td>主題に対するp͡ɸɑ̃-階梯での形容</td></tr>
+<tr><td>GEN</td><td>genitive</td><td>属格</td></tr>
 <tr><td>GRA</td><td>gradation</td><td>階梯変更接辞による階梯の変化</td></tr>
 <tr><td>IND</td><td>indicative</td><td>βæ-階梯の内容語</td></tr>
 <tr><td>INDE</td><td>indefinite article</td><td>不定冠詞</td></tr>
 <tr><td>INF</td><td>infinitive</td><td>不定詞的内容語</td></tr>
 <tr><td>NOM</td><td>nominative</td><td>主格</td></tr>
 <tr><td>REL</td><td>relative</td><td>p͡ɸɑ̃-接辞による関係文構文</td></tr>
+<tr><td>TOP</td><td>topic</td><td>bæ-階梯で示された主題</td></tr>
 </table>
 <br>
 <p>また以下に注意が必要である：</p>
@@ -74,13 +78,19 @@ i.bhateme {
         <p>INDE=bæ̃.NOM\王=*INDE IND\[bæ̃]は存在する ～だ</p>
         <p>ある王が存在した</p>
     </div>
+    <hr>
+    <div data-gloss>
+        <p>be̞ːdɪɟbe̞ːd lʊ̃=ʈ͡ʂʊ̃ːk͡xõ̞k͡x c͡çʊ̃p͡ɸc͡çõ̞ːt͡sʊ̃ e̞ːs</p>
+        <p>bæ.TOP\全て ADJ\3SG.GEN=娘 p͡ɸɑ̃.COMM\美しい そして</p>
+        <p>彼の娘の全員は美しく、</p>
+    </div>
 </div>
 
 <p>単純テキスト：</p>
 <textarea readonly cols="100" rows="20" spellcheck="false" style="font-family: Arial, Helvetica, sans-serif;">
 ɑbo̞ːɟʊdɑːɖdʊdɑːɖ ɸe̞ːn ŋe̞ː=hæɪnrɪç=ç p͡ɸõ̞ːʈ͡ʂõ̞t͡sq͡χõ̞ːt͡sʊ̃p͡ɸp͡ɸõ̞
 
-o̞rχ=o̞ʂxɑːço̞ʂ=çɑ ʊ̃ː=p͡ɸ=c͡çõ̞ːp͡ɸʈ͡ʂõ̞=lõ̞=ŋõ̞c͡ç ŋʊ̃ːq͡χ=ɯ̃p͡ɸ=õ̞k͡xp͡ɸʊ̃ːc͡ç=lõ̞ e̞ːs ʔæ̃=æ̃ːɖdɪ̃dæ̃ːɖ=ɢ βɑ̃ʁɯ̃ː ɢɑː
+o̞rχ=o̞ʂxɑːço̞ʂ=çɑ ʊ̃ː=p͡ɸ=c͡çõ̞ːp͡ɸʈ͡ʂõ̞=lõ̞=ŋõ̞c͡ç ŋʊ̃ːq͡χ=ɯ̃p͡ɸ=õ̞k͡xp͡ɸʊ̃ːc͡ç=lõ̞ e̞ːs ʔæ̃=æ̃ːɖdɪ̃dæ̃ːɖ=ɢ βɑ̃ʁɯ̃ː ɢɑː be̞ːdɪɟbe̞ːd lʊ̃=ʈ͡ʂʊ̃ːk͡xõ̞k͡x c͡çʊ̃p͡ɸc͡çõ̞ːt͡sʊ̃ e̞ːs
 </textarea>
 
 <div id="menu">読み込み中…</div>
@@ -90,7 +100,7 @@ o̞rχ=o̞ʂxɑːço̞ʂ=çɑ ʊ̃ː=p͡ɸ=c͡çõ̞ːp͡ɸʈ͡ʂõ̞=lõ̞=�
 <script>
  document.addEventListener('DOMContentLoaded', function() {
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({ADV:"adverb",GRA:"gradation",INDE:"indefinite article"});
+    leipzig.addAbbreviations({ADV:"adverb",COMM:"comment",GRA:"gradation",INDE:"indefinite article"});
     leipzig.gloss()
   });
 </script>
