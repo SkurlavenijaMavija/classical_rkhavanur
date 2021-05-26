@@ -895,6 +895,51 @@ ASCII文字のみを用いてIPA表記と同等の情報を表示する方法。
 <h3>5.3. 人名</h3>
 <p>古典螺語における人名には、「個人の名前(基本名称) + 父称 + 通称」の形を基礎にして場面や社会的地位に応じて様々な形式のものが用いられた。命名も内容語の合成として理解できるが、人名用形態素と呼ばれる古い形態素が用いられるのが大きな特徴である。</p>
 
+<h2>第6節 文例集</h2>
+<p>第6節では、以上の階梯交替と派生規則のもとでどのような構文がつくられるかを例示する。glossにおいては以下の略語を用いる：
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+		<tr><td>略</td><td>語</td><td>意味</td></tr>
+		<tr><td>2SG</td><td>second person, singular</td><td>二人称単数</td></tr>
+		<tr><td>COMM</td><td>comment</td><td>主題に対するp͡ɸɑ̃-階梯での形容</td></tr>
+		<tr><td>TOP</td><td>topic</td><td>bæ-階梯で示された主題</td></tr>
+	</table>
+また以下に注意が必要である：
+	<ul>
+		<li>=はIPA表記法由来の記号であり、glossの一般規則によるものではない。</li>
+		<li>階梯を文法的情報として註解に書くことがある。</li>
+		<li>接周辞の後半成分は*によって示す。</li>
+	</ul>
+</p>
+
+<h3>6.1. コピュラ文</h3>
+<p>コピュラ文と解釈される古典螺語の構文はいくつか存在する。</p>
+
+<h4>6.1.1. topic-comment structure</h4>
+<p>bæ-階梯でtopic、p͡ɸɑ̃-階梯でcommentを表すことでコピュラ文を表す用例は多い。</p>
+
+<div class="box" style="width: 300px;">
+    <div data-gloss>
+        <p>ɪɡe̞ː p͡ɸõ̞ːʈ͡ʂõ̞t͡sq͡χõ̞ːt͡sʊ̃p͡ɸp͡ɸõ̞</p>
+        <p>bæ.TOP\2SG p͡ɸɑ̃.COMM\鉄の</p>
+        <p>君は鉄だ</p>
+    </div>
+</div>
+
+<p>単純テキスト：</p>
+<textarea readonly cols="25" rows="1" spellcheck="false" style="font-family: Arial, Helvetica, sans-serif;">
+ɪɡe̞ː p͡ɸõ̞ːʈ͡ʂõ̞t͡sq͡χõ̞ːt͡sʊ̃p͡ɸp͡ɸõ̞</textarea>
+
+<h2>Appendix A: 音素配列論</h2>
+<p>このAppendixでは、基本的な音素配列論的制約をいくつか紹介する：
+	<ul>
+		<li>いくらかの例外を除いて音節はCVCまでである。例外はすべて、文法的な接辞にのみ音節をまたがない子音クラスタとして現れ、片方は必ずソナントである。</li>
+		<li>弱連結接辞を伴わない内容語は、中枢子音と中枢母音以外をもたない。</li>
+		<li>弱連結接辞は、中枢子音と中枢母音の少なくとも一方を1つ以上もち、かつソナントか喉音を1つ以上もたなければならない。</li>
+	</ul>
+</p>
+
+<h2>Appendix B: 比較言語学的情報</h2>
+<p>phil.2000年代には、各種史料や文化的特徴から、ドゥバーギョ人はディリーフ人と呼ばれる民族の一部がグボーヂャドにたどり着いたものであることが判明している。この系統関係は言語の領域でも確認されている。つまり螺語とディリーフ人の用いるショクレー語の間にある音韻対応が立証されている。</p>
 
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
@@ -903,8 +948,7 @@ ASCII文字のみを用いてIPA表記と同等の情報を表示する方法。
 <script>
  document.addEventListener('DOMContentLoaded', function() {
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",REL:"relativizer", ADJR: "adjectiviser" 
-	/* https://pdfs.semanticscholar.org/12eb/3bf8d3e1ec63d5d97ded07438a63b66ee1e0.pdf */, EPE:"緩衝音; epenthetic",J:"方向変化の-j",LEX:"連体形のlex",ELX:"助動詞遮断のelx",LALEX:"la lex",NLL: "ny la lex", CF: "counterfactual conditional"/* https://en.wikipedia.org/wiki/Counterfactual_conditional */});
+    leipzig.addAbbreviations({COMM:"comment",GRA:"gradation"});
     leipzig.gloss()
   });
 </script>

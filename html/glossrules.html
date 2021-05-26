@@ -1,0 +1,24 @@
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+  <tr><td>略</td><td>語</td><td>意味</td></tr>
+  <tr><td>3SG</td><td>third person, singular</td><td>三人称単数</td></tr>
+  <tr><td>ADJ</td><td>adjective</td><td>形容詞的内容語</td></tr>
+  <tr><td>ADV</td><td>adverb</td><td>副詞的内容語</td></tr>
+  <tr><td>COMM</td><td>comment</td><td>主題に対するp͡ɸɑ̃-階梯での形容</td></tr>
+  <tr><td>GEN</td><td>genitive</td><td>属格</td></tr>
+  <tr><td>GRA</td><td>gradation</td><td>階梯変更接辞による階梯の変化</td></tr>
+  <tr><td>IND</td><td>indicative</td><td>βæ-階梯の内容語</td></tr>
+  <tr><td>INDF</td><td>indefinite</td><td>不定冠詞</td></tr>
+  <tr><td>INF</td><td>infinitive</td><td>不定詞的内容語</td></tr>
+  <tr><td>NOM</td><td>nominative</td><td>主格</td></tr>
+  <tr><td>REL</td><td>relative</td><td>p͡ɸɑ̃-接辞による関係文構文</td></tr>
+  <tr><td>TOP</td><td>topic</td><td>bæ-階梯で示された主題</td></tr>
+</table>
+
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+  	var leipzig = Leipzig();
+    leipzig.addAbbreviations({COMM:"comment",GRA:"gradation"});
+    leipzig.gloss()
+  });
+</script>
