@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<title>日本机戦連盟の「統一規則」ページの古典螺語訳</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://skurlavenijamavija.github.io/classical_rkhavanur/html/common.css">
+<link rel="stylesheet" href="https://skurlavenijamavija.github.io/classical_rkhavanur/html/menu.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.css">
+<style>
+.modifier {background-color: #eeeeff}
+.alpha{background-color: #ffeeee}
+.beta{background-color: #eeeeff}
+.gamma{background-color: #eeeeee}
+.delta{background-color: #eeffee}
+.vow{color:red}
+.cons{color:blue}
+.qq i {
+	font-family: "Times New Roman";
+}
+i.bhateme {
+	font-family: "Times New Roman";
+}
+</style>
+<style>
+.subject-like{background-color: #ee82ee}
+.agent-like{background-color: #40e0d0}
+.patient-like{background-color: #ffffe0}
+.target{background-color: #daa520}
+</style>
+</head>
+<body class="cool" style="font-family: Arial, Helvetica, sans-serif;">
+<a href="https://skurlavenijamavija.github.io/classical_rkhavanur/">トップに戻る</a>
+
+<h1>日本机戦連盟の「統一規則」ページの古典螺語訳</h1>
+<p>このページでは、<a href="https://sites.google.com/view/cet2kaik/%E7%B5%B1%E4%B8%80%E8%A6%8F%E5%89%87?authuser=0">日本机戦連盟 - 統一規則</a>の古典螺語訳(glossつき)を提供する。glossにおいては以下の略語を用いる：
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+		<tr><td>略</td><td>語</td><td>意味</td></tr>
+        <tr><td>ADJ</td><td>adjective</td><td>形容詞的内容語</td></tr>
+        <tr><td>ID</td><td>identity</td><td>恒等操作</td></tr>
+        <tr><td>OPR</td><td>operation</td><td>操作標識</td></tr>
+        <tr><td>ORD</td><td>ordinal</td><td>順序観点</td></tr>
+        <tr><td>POV</td><td>point of view</td><td>観点標識</td></tr>
+        <tr><td>RANG</td><td>range</td><td>範囲標識</td></tr>
+        <tr><td>STR</td><td>strict</td><td>点的範囲</td></tr>
+	</table>
+また以下に注意が必要である：
+	<ul>
+		<li>=はIPA表記法由来の記号であり、glossの一般規則によるものではない。</li>
+		<li>階梯を文法的情報として註解に書くことがある。</li>
+		<li>接周辞の後半成分は*によって示す。</li>
+	</ul>
+</p>
+
+<h2>統一規則</h2>
+
+<p>タイトル：</p>
+<div class="box" style="width: 700px;">
+    <div data-gloss>
+        <p>ʊbɑddo̞ːɡɯːɖɑːb ɯ̃q͡χp͡ɸõ̞ː-õ̞ʈ͡ʂɯ̃ːp͡ɸ-∅-∅-õ̞t͡sõ̞ːq͡χ</p>
+        <p>ゲームルール ADJ\POV.ORD-一-RANG.STR-OPR.ID-～にされた</p>
+        <p>第一のものとされたゲームルール</p>
+    </div>
+</div>
+
+<p>単純テキスト：</p>
+<textarea readonly cols="100" rows="20" spellcheck="false" style="font-family: Arial, Helvetica, sans-serif;">
+ʊbɑddo̞ːɡɯːɖɑːb ɯ̃q͡χp͡ɸõ̞ːõ̞ʈ͡ʂɯ̃ːp͡ɸõ̞t͡sõ̞ːq͡χ</textarea>
+
+<div id="menu">読み込み中…</div>
+<div id="menuButton" onclick="openClose()">≡</div>
+<script src="https://skurlavenijamavija.github.io/classical_rkhavanur/html/header.js" async></script>
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+  	var leipzig = Leipzig();
+    leipzig.addAbbreviations({COMM:"comment",ID:"identity",GRA:"gradation",OPR:"operation",ORD:"ordinal",POV:"point of view",RANG:"range",STR:"strict"});
+    leipzig.gloss()
+  });
+</script>
+</body>
+</html>
